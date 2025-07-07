@@ -2,6 +2,9 @@
 
 A fully parametric battery case system designed in Fusion 360. Configurable for multiple cylindrical battery sizes, with optional magnet-fit lids.
 
+![image](https://github.com/user-attachments/assets/b1199ec2-26a6-4e84-a5f8-96d1cad08467)
+
+
 ## ✅ Features
 - Supports common cylindrical cells (18650, 21700, LTO, etc.)
 - Configurable battery count (rows/columns)
